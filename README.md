@@ -1,2 +1,2 @@
-# L-mpada
+# Lampada
 Projeto Lâmpada JS
